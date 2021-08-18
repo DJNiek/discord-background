@@ -22,9 +22,9 @@
 	--textdarkest: 					90,90,90;
 	
 	--accentcolor:					190,78,180;
-	--accentcolor2:					var(--textbright);
-	--mentioncolor:					var(--textbright);
-	--linkcolor:					var(--textbright);
+	--accentcolor2:					200,200,200;
+	--mentioncolor:					200,200,200;
+	--linkcolor:					200,200,200;
 	
 	--successcolor: 				59,165,92;
 	--warningcolor: 				250,166,26;
